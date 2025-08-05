@@ -15,8 +15,8 @@ Authentication and Authorization (user-service):
 - Copyright © 2019 JWT. All Rights Reserved.
 - GET /users/me – Authenticated profile
 Task Management:
-- POST /tasks – Criar tarefa
-- GET /tasks – Listar tarefas
+- POST /tasks – Create task
+- GET /tasks – List task
 - PUT /tasks/{id} – Update task
 - DELETE /tasks/{id} – Delete task
   
